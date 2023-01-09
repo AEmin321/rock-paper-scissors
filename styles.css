@@ -1,0 +1,40 @@
+body {
+    background-color: #F4EEE8;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+
+.btn {
+    cursor: pointer;
+}
+
+.draw {
+    color: #FE7E6D;
+    text-align: center;
+}
+
+.main {
+    background-color: #F4EEE8;
+    text-align: center;
+    color: #114E60;
+    width: 600px;
+    padding: 60px;
+    margin: 90px auto;
+    display: flex;
+    justify-content: space-between;
+    -webkit-box-shadow: 0px 0px 27px -7px rgba(0,0,0,0.54);
+    -moz-box-shadow: 0px 0px 27px -7px rgba(0,0,0,0.54);
+    box-shadow: 0px 0px 27px -7px rgba(0,0,0,0.54);
+}
+
+.result {
+    color: #114E60;
+    text-align: center;
+    font-size: 46px;
+    font-weight: 600;
+}
+
+
